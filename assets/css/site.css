@@ -846,7 +846,7 @@ nav > ul > li > ul li.active > a {
     padding-top: 120px;
     padding-bottom: 80px;
     background-color: transparent;
-    background-image: url(/uploads/767x0_2560x0/diana_blumbeka_idv_masiere.png);
+    background-image: url(../../uploads/767x0_2560x0/diana_blumbeka_idv_masiere.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -1718,11 +1718,11 @@ audio, canvas, video {
     }
 }
 
-#p3843 #r4243 {
+#p3843 #r4243, #p3843 #r4243 {
     padding-top: 120px;
     padding-bottom: 80px;
     background-color: rgba(0, 0, 0, .0980392);
-    background-image: url(/uploads/996x0_2560x0/diana_blumbeka_idv_masiere_jekabpils.png);
+    background-image: url(../../uploads/767x0_2560x0/diana_blumbeka_idv_masiere.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -2263,10 +2263,6 @@ body .designRow {
 
 .clear:after {
     clear: both
-}
-
-.lt-ie8 .clear {
-    zoom: 1
 }
 
 .hide-overflow {
@@ -3360,8 +3356,10 @@ body a {
 }
 
 #p8282 #r3260 {
+    padding-top: 120px;
+    padding-bottom: 80px;
     background-color: rgba(0, 0, 0, .0980392);
-    background-image: url(/uploads/767x0_2560x0/diana_blumbeka_idv_masiere_jekabpils.png);
+    background-image: url(../../uploads/767x0_2560x0/diana_blumbeka_idv_masiere_jekabpils.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
